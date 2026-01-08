@@ -1,0 +1,2 @@
+pyttsx3
+pyobjc; sys_platform == "darwin"

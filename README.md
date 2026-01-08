@@ -84,7 +84,7 @@ f1_driver_recognition/
 1. Create Virtual Environment
     python3 -m venv venv
     source venv/bin/activate
-    pip install -r requirements.txt
+    macOS (optional TTS): pip install -r requirements-macos.txt
 
 2. Add faces 
     python addFaces.py

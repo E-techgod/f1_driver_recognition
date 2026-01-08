@@ -1,3 +1,5 @@
+![Tests](https://github.com/E-techgod/f1_driver_recognition/actions/workflows/tests.yml/badge.svg)
+
 🏁 F1 Real-Time Driver Performance
 
 This project is a computer vision and data visualization system that recognizes Formula 1 drivers via webcam, logs their attendance in real time using an API, and displays driver statistics, rankings, and performance analysis using a dynamic Streamlit dashboard.

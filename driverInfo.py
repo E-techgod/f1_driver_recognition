@@ -27,19 +27,19 @@ driver_info = {
                 "F1 Debut: 2019 Australian Grand Prix\n"
                 "Team: McLaren\n"
                 "Car number: 4\n"
-                "Number of races: 147\n"
+                "Number of races: 152\n"
                 "Championships: 0\n"
-                "Wins: 9\n"
+                "Wins: 11\n"
                 "Wins from Pole: 5\n"
                 "Sprint Wins: 2\n"
-                "Podiums: 41\n"
+                "Podiums: 44\n"
                 "Season position {year}: 2\n"
                 "Season points {year}: 332\n"
-                "GP Pole Positions: 14\n"
+                "GP Pole Positions: 16\n"
                 "Fastest Laps: 18\n"
-                "Total Points: 1339\n"
+                "Total Points: 1430\n"
                 "Retirements (DNFs): 14\n"
-                "Best Championship Finish: 2nd (2024))\n",
+                "Best Championship Finish: 2nd (2024)\n",
 
             "George Russell":
                 "Birth: February 15, 1998\n"

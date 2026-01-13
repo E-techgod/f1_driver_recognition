@@ -7,20 +7,19 @@ driver_info = {
                 "F1 Debut: 2023 - Bahrain\n"
                 "Team: McLaren\n"
                 "Car number: 81\n"
-                "Number of races: 65\n"
+                "Number of races: 70\n"
                 "Championships: 0\n"
                 "Wins: 9\n"
                 "Wins from Pole: 4\n"
                 "Wins (Sprint Format): 2\n"
-                "Podiums: 24\n"
+                "Podiums: 26\n"
                 "Season position {year}: 1\n"
                 "Season points {year}: 346\n"
-                "GP Pole Positions: 5\n"
-                "Fastest Laps: 8\n"
-                "Total Points: 735\n"
+                "GP Pole Positions: 6\n"
+                "Fastest Laps: 9\n"
+                "Total Points: 799\n"
                 "Retirements (DNFs): 4\n"
-                "Best Championship Finish: 1st\n"
-                "        (2025- Current Season)\n",
+                "Best Championship Finish: 3rd (2025)\n",
 
             "Lando Norris": 
                 "Birth: November 13, 1999\n"

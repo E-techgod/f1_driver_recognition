@@ -1,4 +1,4 @@
-###################### Round 19: Austin GP ######################
+###################### End of 2025 Season ######################
 year = 2025
 driver_info = {
             "Oscar Piastri":
@@ -87,17 +87,17 @@ driver_info = {
                 "F1 Debut: 2015 Australian Grand Prix\n"
                 "Team: Red Bull Racing\n"
                 "Car number: 1\n"
-                "Number of races: 228\n"
+                "Number of races: 233\n"
                 "Championships: 4\n"
-                "Wins: 68\n"
+                "Wins: 71\n"
                 "Sprint Wins: 13\n"
                 "Wins from Pole: 36\n"
-                "Podiums: 122\n"
-                "Season position {year}: 3\n"
-                "Season points {year}: 306\n"
-                "GP Pole Positions: 47\n"
-                "Fastest Laps: 35\n"
-                "Total Points: 3329.5\n"
+                "Podiums: 127\n"
+                "Season position {year}: 2\n"
+                "Season points {year}: 421\n"
+                "GP Pole Positions: 48\n"
+                "Fastest Laps: 36\n"
+                "Total Points: 3444.5\n"
                 "Retirements (DNFs): 33\n"
                 "Best Championship Finish: 1st (2021-2024)\n",
 

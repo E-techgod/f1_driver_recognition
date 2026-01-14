@@ -13,8 +13,8 @@ driver_info = {
                 "Wins from Pole: 4\n"
                 "Wins (Sprint Format): 2\n"
                 "Podiums: 26\n"
-                "Season position {year}: 1\n"
-                "Season points {year}: 346\n"
+                "Season position {year}: 3\n"
+                "Season points {year}: 410\n"
                 "GP Pole Positions: 6\n"
                 "Fastest Laps: 9\n"
                 "Total Points: 799\n"
@@ -33,13 +33,13 @@ driver_info = {
                 "Wins from Pole: 5\n"
                 "Sprint Wins: 2\n"
                 "Podiums: 44\n"
-                "Season position {year}: 2\n"
-                "Season points {year}: 332\n"
+                "Season position {year}: 1\n"
+                "Season points {year}: 423\n"
                 "GP Pole Positions: 16\n"
                 "Fastest Laps: 18\n"
                 "Total Points: 1430\n"
                 "Retirements (DNFs): 14\n"
-                "Best Championship Finish: 2nd (2024)\n",
+                "Best Championship Finish: 1st (2025)\n",
 
             "George Russell":
                 "Birth: February 15, 1998\n"
@@ -47,19 +47,19 @@ driver_info = {
                 "F1 Debut: 2019 Australian Grand Prix\n"
                 "Team: Mercedes\n"
                 "Car number: 63\n"
-                "Number of races: 147\n"
+                "Number of races: 152\n"
                 "Championships: 0\n"
                 "Wins: 5\n"
                 "Sprint Wins: 1\n"
                 "Wins from Pole: 4\n"
-                "Podiums: 23\n"
+                "Podiums: 24\n"
                 "Season position {year}: 4\n"
-                "Season points {year}: 252\n"
+                "Season points {year}: 319\n"
                 "GP Pole Positions: 7\n"
-                "Fastest Laps: 10\n"
-                "Total Points: 966\n"
+                "Fastest Laps: 11\n"
+                "Total Points: 1033\n"
                 "Retirements (DNFs): 19\n"
-                "Best Championship Finish: 4th (2022)\n",
+                "Best Championship Finish: 4th (2025)\n",
 
             "Kimi Antonelli":
                 "Birth: August 25, 2006\n"

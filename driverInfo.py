@@ -67,20 +67,19 @@ driver_info = {
                 "F1 Debut: 2025 Australian Grand Prix\n"
                 "Team: Mercedes\n"
                 "Car number: 14\n"
-                "Number of races: 19\n"
+                "Number of races: 24\n"
                 "Championships: 0\n"
                 "Wins: 0\n"
                 "Sprint Wins: 0\n"
                 "Wins from Pole: 0\n"
-                "Podiums: 1\n"
+                "Podiums: 3\n"
                 "Season position {year}: 7\n"
-                "Season points {year}: 89\n"
+                "Season points {year}: 150\n"
                 "GP Pole Positions: 0\n"
                 "Fastest Laps: 3\n"
-                "Total Points: 89\n"
+                "Total Points: 150\n"
                 "Retirements (DNFs): 4\n"
-                "Best Championship Finish: 7th\n" 
-                "         (as of Miami 2025)\n",
+                "Best Championship Finish: 7th (2025)\n",
             
             "Max Verstappen":
                 "Birth: September 30, 1997\n"

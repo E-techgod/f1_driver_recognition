@@ -130,6 +130,14 @@ Data Viz: Bar charts, conversion metrics, fantasy scoring
 
 TTS: pyttsx3 voice confirmation
 
+🔌 Real-World Applications
+
+This pipeline architecture — vision capture → embedding-based classification → 
+API logging → live dashboard — maps directly to industrial use cases:
+- Automated worker identification in restricted-access environments
+- Real-time equipment/parts recognition on assembly lines  
+- Edge-deployed perception systems requiring low-latency feedback loops
+
 📦 Requirements
 
 opencv-python

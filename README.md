@@ -149,6 +149,12 @@ requests
 pyttsx3
 scikit-learn
 
+## 🎥 Live Demo
+
+![F1 Driver Recognition in Action](demo_screenshot.png)
+
+Real-time recognition pipeline: face detected → driver identified → 
+stats retrieved → overlay rendered in < 100ms
 
 🎓 Author
 

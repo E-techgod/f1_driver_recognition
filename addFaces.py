@@ -13,7 +13,7 @@ faceDetect= cv2.CascadeClassifier(str(DATA_DIR / "haarcascade_frontalface_defaul
 facesList=[]
 i=0
 
-name= input("Enter your name: ")
+name= input("Enter driver's name: ")
 
 while True:
     ret,frame=video.read() 
